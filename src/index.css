@@ -28,3 +28,11 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
+button{
+  padding: 10px 15px;
+  border: none;
+  background-color: #535bf2;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #fff;
+}
